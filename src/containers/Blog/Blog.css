@@ -18,6 +18,7 @@
     font-weight: 600;
 }
 .Blog a:hover,
-.Blog a:active{
+.Blog a:active,
+.Blog a.active{
     color: #fa923f;
 }
