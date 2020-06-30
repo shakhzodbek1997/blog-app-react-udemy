@@ -31,7 +31,7 @@ class Posts extends Component {
     }
 
 
-    postSelectedHandler = (id) => {203. Passing Route Parameters
+    postSelectedHandler = (id) => {
         this.setState({selectedPostId: id});
     }
 
